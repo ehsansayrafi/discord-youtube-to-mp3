@@ -1,5 +1,4 @@
-# Youtube-Downloader
-A simple code used to download music by YouTube in mp3 format 🔥
+[![discord-youtube-to-mp3](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=discord-youtube-to-mp3&theme=dark)](https://github.com/navaneethkm004/discord-youtube-to-mp3)<br/>
 
 Looking for a code to download your music ? This fully open source code is made for you!
 
