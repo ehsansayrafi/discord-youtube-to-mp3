@@ -8,6 +8,8 @@ Looking for a code to download your music ? This fully open source code is made 
 
 ### ⚡ Installation
 
+[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/discord-youtube-to-mp3)](https://repl.it/github/navaneethkm004/discord-youtube-to-mp3)
+
 Well, let's start by downloading the code.
 Go to the folder `config` then the file `bot.json`.
 For the bot to be able to start, please complete the file with your credentials as follows :
