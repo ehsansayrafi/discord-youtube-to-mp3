@@ -23,7 +23,7 @@ Client.on("message", async message => {
     if (message.author.bot) return;
 
     //If '<prefix>download' is typed
-    if (message.content.startsWith(Config.prefix + "dl")) {
+    if (message.content.startsWith(Config.prefix + "download")) {
 
         //Require args
         let args = message.content.split(' ').slice(1);
@@ -87,7 +87,7 @@ Client.on("message", async message => {
     if (message.author.bot) return;
 
     //If '<prefix>linkdownload' is typed
-    if (message.content.startsWith(Config.prefix + "ldl")) {
+    if (message.content.startsWith(Config.prefix + "linkdownload")) {
 
         //Require args
         let args = message.content.split(' ').slice(1);
