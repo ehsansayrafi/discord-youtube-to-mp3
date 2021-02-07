@@ -72,7 +72,6 @@ Client.on("message", async message => {
                         return Client.channels.cache.get(channelID).send(`⛔ | ${message.author}, I didn't manage to send the music... maybe it's too heavy for Discord ? Or maybe I don't have the required permissions to upload this type of file on this server...`);
                     }
                 })
-fs.unlinkSync(__dirname + `/download/${url[0].title}.mp3`);
         } catch (e) {
             //If the music is not found
             return message.channel.send(`⛔ | ${message.author}, I didn't find anything for : ${args.join(" ")} ! Maybe it is impossible to retrieve this music...`);
