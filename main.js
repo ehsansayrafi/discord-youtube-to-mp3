@@ -131,4 +131,4 @@ Client.on("message", async message => {
 });
 
 //Client login
-Client.login(Config.token);
+Client.login("ODM3MzQ4MzA2OTUwMjkxNDg4.YIrPYQ.WrCAFoc7oKviq5IPwk7Uvd7suWo");
